@@ -6,8 +6,9 @@ For example, the diamond for the letter C is :
       A
      B B
     C   C
-     B B
-      A
+     B B 
+      A  
+
 
 
 # Hint
